@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Sushmita! A Computer Science Graduate student at Arizona State University, with extensive expertise in analysis, design and development of highly reliable, available, and scalable software solutions, using the most up-to-date technologies available. I love solving real world problems with technology.
+I am Sushmita! A Computer Science Graduate student at Arizona State University, with expertise in analysis, design and development of highly reliable, available, and scalable software solutions. I love leveraging my knowledge to solve real world problems with technology.
 
 Most recently, I was working at Amazon, developing algorithms that keep its retail prices market competitive.
 Interested in building large-scale distributed systems and optimized algorithms.
